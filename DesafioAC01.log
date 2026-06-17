@@ -1,0 +1,12 @@
+Line 16: Class Threed.SSFrame of control frmDados was not a loaded control class.
+Line 66: Class Threed.SSFrame of control SSFrame2 was not a loaded control class.
+Line 124: Class Threed.SSPanel of control frmToolBar was not a loaded control class.
+Line 148: Class Threed.SSCommand of control cmdSair was not a loaded control class.
+Line 163: Class Threed.SSCommand of control cmdPrimeiro was not a loaded control class.
+Line 178: Class Threed.SSCommand of control cmdAnterior was not a loaded control class.
+Line 193: Class Threed.SSCommand of control cmdProximo was not a loaded control class.
+Line 208: Class Threed.SSCommand of control cmdUltimo was not a loaded control class.
+Line 223: Class Threed.SSCommand of control cmdSalvar was not a loaded control class.
+Line 238: Class Threed.SSCommand of control cmdNovo was not a loaded control class.
+Line 253: Class Threed.SSCommand of control cmdExcluir was not a loaded control class.
+Line 268: Class Threed.SSCommand of control cmdLocalizar was not a loaded control class.
